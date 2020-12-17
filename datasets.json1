@@ -1,0 +1,44 @@
+{"id": 22, "text": "3C C X TGBU 624109  45G1 MAXWT 5D0KG5 L5OLB5 TAREWT 36201K65 CAUTION 7800LBS PAILOAD ZBDD0 KGS 299IGHIGH GJB70LBS UCAP II IS9AGIIT KDBBANMICIT H554", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "owner"], [12, 18, "digit"]]}
+{"id": 25, "text": "3CX 624109 TGBU 45GI G3T MAT 1141185 TP4T T066 G PDAD GAUTION H5HI LJTIP JDIT", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "owner"], [4, 10, "digit"]]}
+{"id": 26, "text": "GATE IN  TCLU 928181 TAL 45G1 3N15 MA755 1L536 H L9US 508 B4IG TI  DYG III L3", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "owner"], [14, 20, "digit"]]}
+{"id": 27, "text": "3C C X TGBU 624109  45G1 MAXWT 5D0KG5 L5OLB5 TAREWT 36201K65 CAUTION 7800LBS PAILOAD ZBDD0 KGS 299IGHIGH GJB70LBS UCAP II IS9AGIIT KDBBANMICIT H554", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "owner"], [12, 18, "digit"]]}
+{"id": 29, "text": "1846922 KKFU 42CG0 KLINE 3043 IAKGI 67710 TIRE 36390 HAXCW CUCAP Z90QUJT JAGE 9I0110 8 SI4  35 IMIII D 67973401Y", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "digit"], [8, 12, "owner"]]}
+{"id": 31, "text": "1846922 KKFU 42CG0 KLINE 3043 IAKGI 67710 TIRE 36390 HAXCW CUCAP Z90QUJT JAGE 9I0110 8 SI4  35 IMIII D 67973401Y", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "owner"], [0, 7, "digit"]]}
+{"id": 32, "text": "TL3X GLDU 981434E 22G1  NGI H2E3 TAPE HE NET G33 UUCAP BG 95G7BEI", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "owner"], [10, 17, "digit"]]}
+{"id": 33, "text": "5 IAL TCLU 928181 ASG1 JZV KALH5 TI650U5 B2 JL9TG DNUPS A5C  G2SUS 64Q LMUNP Z9Q I5 A E5UEI", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "owner"], [11, 17, "digit"]]}
+{"id": 35, "text": "TL3 TGCI 201679 22GI HGIN 8  TIRE 9 CICAP H5 F KAED", "meta": {}, "annotation_approver": null, "labels": [[9, 15, "digit"], [4, 8, "owner"]]}
+{"id": 36, "text": "EMACGM NVFU 154692 IL60 663537 KLINE MLA AJ I", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "owner"], [12, 18, "digit"]]}
+{"id": 37, "text": "AX 436504 TCNU NAKJROS5338E 9E JIPM HHE PAYLDID H CIIIIP CALII99 70120", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "owner"], [3, 9, "digit"]]}
+{"id": 38, "text": "I PRJ EISU8255776 45C1 GPO 25DONC G5OLB TIR LDME BBLB 2GIBD0 62490 TSICUV 2T2LUFT GT7 I 3790I7", "meta": {}, "annotation_approver": null, "labels": [[6, 17, "containernumber"]]}
+{"id": 39, "text": "EITU9233O8D 45C1 GS8 TLIL 9 TIHE G GQ99L5 BRL L CU3 ICIV Z4G 9996U1Y", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 40, "text": "TLIU 436504 AAL 45G1 2584 VAKGRO5 IIPEIT E PIVLQAO LJH IIILAP CAITILI 71129", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "owner"], [5, 11, "digit"]]}
+{"id": 41, "text": "AX 436504 TCNU NAKJROS5338E 9E JIPM HHE PAYLDID H CIIIIP CALII99 70120", "meta": {}, "annotation_approver": null, "labels": [[10, 14, "owner"], [3, 9, "digit"]]}
+{"id": 42, "text": "CHAU 518842 5 45G1 CMMACGIM 9E R59 IL 3OS5 BG00IG TL 88690E G0 0LCIP STOP GFJT7", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "owner"], [5, 11, "digit"]]}
+{"id": 43, "text": "GUDU 981434 0 22G1  87", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "owner"], [5, 11, "digit"]]}
+{"id": 44, "text": "B 4 5 M G 0 U 1 5 29 96 7 6 C 2 33 1 8 5LVF", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 45, "text": "1CL0928181 TAL 4 L5 LIG5 B 7 1", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "containernumber"]]}
+{"id": 46, "text": "I PRJ EISU8255776 45C1 GPO 25DONC G5OLB TIR LDME BBLB 2GIBD0 62490 TSICUV 2T2LUFT GT7 I 3790I7", "meta": {}, "annotation_approver": null, "labels": [[6, 17, "containernumber"]]}
+{"id": 47, "text": "EITU3233080 A5C1 CFISS EOLD  TIR GD 67901 NT E3LIL 413 CUBE 6AUUV ZQQ 3IP 9996", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "containernumber"]]}
+{"id": 48, "text": "EITU3233080 A5C1 CFISS EOLD  TIR GD 67901 NT E3LIL 413 CUBE 6AUUV ZQQ 3IP 9996", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "containernumber"]]}
+{"id": 49, "text": "PRRIOKCOI MI EISU8255775 45CI DS3 TIE I7 TI M MILI", "meta": {}, "annotation_approver": null, "labels": [[13, 24, "containernumber"]]}
+{"id": 50, "text": "CHAU 518842 5 45G1 CMMACGIM 9E R59 IL 3OS5 BG00IG TL 88690E G0 0LCIP STOP GFJT7", "meta": {}, "annotation_approver": null, "labels": [[0, 4, "owner"], [5, 11, "digit"]]}
+{"id": 51, "text": "5 IAL TCLU 928181 ASG1 JZV KALH5 TI650U5 B2 JL9TG DNUPS A5C  G2SUS 64Q LMUNP Z9Q I5 A E5UEI", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "owner"], [11, 17, "digit"]]}
+{"id": 52, "text": "EITU3233080 A5C1 CFISS EOLD  TIR GD 67901 NT E3LIL 413 CUBE 6AUUV ZQQ 3IP 9996", "meta": {}, "annotation_approver": null, "labels": [[0, 11, "containernumber"]]}
+{"id": 53, "text": "T 4 G 5 B G  1 6 J 2 4 1 C 0 87 9 D CAUTION 29M96HIGH", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 54, "text": "TL3X GLDU 981434E 22G1  NGI H2E3 TAPE HE NET G33 UUCAP BG 95G7BEI", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "owner"], [10, 17, "digit"]]}
+{"id": 55, "text": "B 4 5 M G 0 U 1 5 29 96 7 6 C 2 33 1 8 5LVF", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 56, "text": "82 UI MAU 5 181572 IL AZC0 KLINE 60S37  MMH L  I 925 3J7", "meta": {}, "annotation_approver": null, "labels": [[12, 18, "digit"]]}
+{"id": 57, "text": "T C 0 4 3 6 5 0 4 4 CAUTIN 96 HIGI", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 58, "text": "3C C X TGBU 624109  45G1 MAXWT 5D0KG5 L5OLB5 TAREWT 36201K65 CAUTION 7800LBS PAILOAD ZBDD0 KGS 299IGHIGH GJB70LBS UCAP II IS9AGIIT KDBBANMICIT H554", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "owner"], [12, 18, "digit"]]}
+{"id": 59, "text": "TL3 TGCI 201679 22GI HGIN 8  TIRE 9 CICAP H5 F KAED", "meta": {}, "annotation_approver": null, "labels": [[4, 8, "owner"], [9, 15, "digit"]]}
+{"id": 60, "text": "T C 0 4 3 6 5 0 4 4 CAUTIN 96 HIGI", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 61, "text": "5 IAL TCLU 928181 ASG1 JZV KALH5 TI650U5 B2 JL9TG DNUPS A5C  G2SUS 64Q LMUNP Z9Q I5 A E5UEI", "meta": {}, "annotation_approver": null, "labels": [[6, 10, "owner"], [11, 17, "digit"]]}
+{"id": 62, "text": "TU E 9233080 45C1 CRG99 5I7IT LD TE J59 DAU  L3 0IJIII N", "meta": {}, "annotation_approver": null, "labels": [[5, 12, "digit"]]}
+{"id": 63, "text": "TL3X GLDU 981434E 22G1  NGI H2E3 TAPE HE NET G33 UUCAP BG 95G7BEI", "meta": {}, "annotation_approver": null, "labels": [[5, 9, "owner"], [10, 17, "digit"]]}
+{"id": 64, "text": "1846922 KKFU 42CG0 KLINE 3043 IAKGI 67710 TIRE 36390 HAXCW CUCAP Z90QUJT JAGE 9I0110 8 SI4  35 IMIII D 67973401Y", "meta": {}, "annotation_approver": null, "labels": [[0, 7, "digit"], [8, 12, "owner"]]}
+{"id": 65, "text": "T 4 G 5 B G  1 6 J 2 4 1 C 0 87 9 D CAUTION 29M96HIGH", "meta": {}, "annotation_approver": null, "labels": []}
+{"id": 66, "text": "1846922 KKFU 42CG0 KLINE 3043 IAKGI 67710 TIRE 36390 HAXCW CUCAP Z90QUJT JAGE 9I0110 8 SI4  35 IMIII D 67973401Y", "meta": {}, "annotation_approver": null, "labels": [[8, 12, "owner"], [0, 7, "digit"]]}
+{"id": 67, "text": "1CL0928181 TAL 4 L5 LIG5 B 7 1", "meta": {}, "annotation_approver": null, "labels": [[0, 10, "containernumber"]]}
+{"id": 68, "text": "3C C X TGBU 624109  45G1 MAXWT 5D0KG5 L5OLB5 TAREWT 36201K65 CAUTION 7800LBS PAILOAD ZBDD0 KGS 299IGHIGH GJB70LBS UCAP II IS9AGIIT KDBBANMICIT H554", "meta": {}, "annotation_approver": null, "labels": [[7, 11, "owner"], [12, 18, "digit"]]}
+{"id": 69, "text": "GATE IN  TCLU 928181 TAL 45G1 3N15 MA755 1L536 H L9US 508 B4IG TI  DYG III L3", "meta": {}, "annotation_approver": null, "labels": [[9, 13, "owner"], [14, 20, "digit"]]}
+{"id": 70, "text": "3CX 624109 TGBU 45GI G3T MAT 1141185 TP4T T066 G PDAD GAUTION H5HI LJTIP JDIT", "meta": {}, "annotation_approver": null, "labels": [[11, 15, "owner"], [4, 10, "digit"]]}
